@@ -18,3 +18,9 @@ projects[l10n_update][subdir] = contrib
 
 projects[title][version] = 1.0-alpha7
 projects[title][subdir] = contrib
+
+projects[i18nviews][version] = 3.x-dev
+projects[i18nviews][subdir] = contrib
+projects[i18nviews][download][type] = "git"
+projects[i18nviews][download][branch] = "7.x-3.x"
+projects[i18nviews][download][revision] = "27e9809"
